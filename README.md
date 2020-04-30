@@ -12,3 +12,5 @@
 
 - Authors: Xiaohe Yang & Zhi Qiu
 
+- PDF report: STA663-Final-Report.pdf
+
