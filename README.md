@@ -14,3 +14,7 @@
 
 - PDF report: STA663-Final-Report.pdf
 
+## PyPI Package
+
+- TestPyPI: https://test.pypi.org/project/IBP-Gaussian-663-2020/0.0.1/
+- Command: pip install -i https://test.pypi.org/simple/ IBP-Gaussian-663-2020==0.0.1
