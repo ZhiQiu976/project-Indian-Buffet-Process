@@ -2,7 +2,7 @@
 
 ## Infinite Latent Feature Models and the Indian Buffet Process
 
-- STA-663-2020 Final Project Repository
+- STA-663-2020 Final Project Repository Forking Version, the original one could be retrived at https://github.com/final-project-sta663/Indian-Buffet-Process
 
 - Original paper: Thomas L. Griffiths and Zoubin Ghahramani. Infinite latent feature models and the Indian buffet process. 2005
 
